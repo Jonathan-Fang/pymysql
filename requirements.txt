@@ -5,6 +5,7 @@ filelock==3.12.2
 idna==3.4
 pbr==5.11.1
 platformdirs==3.10.0
+PyMySQL==1.1.0
 requests==2.31.0
 stevedore==5.1.0
 urllib3==2.0.4
